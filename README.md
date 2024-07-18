@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is João Saraiva and I'm a Web Developer from Brazil..</h2>
+<h2 align="left">Hi, I'm João. I have experience in Web development, either in websites using tools such as Elementor - Wordpress, Shopify, or in code using technologies such as Html, Css, Tailwind, Js and Jsx. React, Next.js. In addition to also using Generative AI's for optimization in the creation of apps</h2>
+
+###
+
+<h3 align="left">GitHub Stats</h3>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="left">Language's and tools</h3>
 
 ###
 
@@ -42,6 +46,10 @@
 
 ###
 
+<h3 align="left">Reach me!</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jsaraivx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -61,14 +69,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jsaraivx/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jsaraivx&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
