@@ -1,5 +1,4 @@
-<h2 align="left">I'm João, a Brazilian Data Engineer.
-  Furthermore, I'm also a full stack developer, either in websites using tools such as Elementor - Wordpress, Shopify, or in code using technologies such as Html, Css, Tailwind, Js and Jsx. React, Next.js. In addition to also using Generative AI's for optimization in the creation of apps</h2>
+<h2 align="left">I'm João, a Brazilian Data Engineer. Furthermore, I'm also a full stack developer, either in websites using tools such as Elementor - Wordpress, Shopify, or in code using technologies such as Html, Css, Tailwind, Js and Jsx. React, Next.js. In addition to also using Generative AI's for optimization in the creation of apps</h2>
 
 ###
 
