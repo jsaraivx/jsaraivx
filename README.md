@@ -68,15 +68,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jsaraivx/jsaraivx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jsaraivx/count.svg?"  />
-</div>
-
-###
