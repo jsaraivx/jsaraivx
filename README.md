@@ -23,7 +23,7 @@ class DataEngineer:
 |**Core & Ingestion**|**Orchestration & Infra**|
 |---|---|
 |Python|Airflow|
-|Pandas, DuckDB, SQLAlchemy, SQL|Docker, Minikube, Helm, Shell|
+|Pandas, DuckDB, SQLAlchemy, SQL|Docker, Kubernetes, Helm, Shell|
 ### >_ connect
 
 - **LinkedIn:** [linkedin.com/in/jsaraivx](https://linkedin.com/in/jsaraivx)
