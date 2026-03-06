@@ -6,9 +6,9 @@
 class DataEngineer:
     def __init__(self):
         self.id = "João Saraiva"
-        self.role = "Data Engineer | Python | GCP"
+        self.role = "Data Engineer | Python | GCP | BigQuery | DBT | Kafka / Pub Sub"
         self.location = "Rio de Janeiro, BR"
-        self.focus = ["Scalability", "Governance", "High-Performance ETL"]
+        self.focus = ["Scalability", "Governance", "High-Performance ETL", "FinOPS"]
     
     def current_status(self):
         return {
